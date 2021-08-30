@@ -1,2 +1,6 @@
 linha1
+<<<<<<< HEAD
 linha2 yyyy
+=======
+linha2 xxxxx
+>>>>>>> develop
